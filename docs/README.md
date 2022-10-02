@@ -1,19 +1,21 @@
 ---
 home: true
 icon: home
-title: 项目主页
+title: 知识库主页
 heroImage: /logo.svg
-heroText: 项目名称
-tagline: 你可以在这里放置或是整个项目的描述。
+heroText: 菜鸡的自我救赎
+tagline: java后端萌新的个人知识库。
 actions:
-  - text: 使用指南 💡
+  - text: 开始阅读
     link: /demo/
     type: primary
 
-  - text: 文档
-    link: /guide/
-
 features:
+  - title: 二进制安全
+    icon: markdown
+    details: linux二进制安全入门教程，随缘更新，已脱坑。
+    link: /pwn/
+
   - title: Markdown 增强
     icon: markdown
     details: 新增文字对齐、上下角标、脚注、标记、任务列表、数学公式、流程图、图表与幻灯片支持
@@ -101,9 +103,3 @@ features:
 copyright: false
 footer: MIT Licensed | Copyright © 2019-present Mr.Hope
 ---
-
-这是项目主页的案例。你可以在这里放置你的主体内容。
-
-想要使用此布局，你需要在页面 front matter 中设置 `home: true`。
-
-配置项的相关说明详见 [项目主页配置](https://vuepress-theme-hope.github.io/v2/zh/guide/layout/home/)。

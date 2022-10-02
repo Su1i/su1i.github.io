@@ -1,6 +1,6 @@
 import {
   useSidebarItems
-} from "./chunk-QIZSXM3W.js";
+} from "./chunk-6UZ5D2TD.js";
 import {
   useMobile,
   usePageAuthor,

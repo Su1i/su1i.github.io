@@ -13,7 +13,7 @@ export const zhSidebar = sidebar({
     {
       text: "文档",
       icon: "note",
-      prefix: "guide/",
+      prefix: "pwn/",
       children: "structure",
     },
     "slides",
