@@ -35,6 +35,32 @@ export const pagesComponents = {
   "v-85096356": defineAsyncComponent(() => import(/* webpackChunkName: "v-85096356" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/pwn/pwn入门08---堆利用之uaf.html.vue")),
   // path: /pwn/
   "v-744b8441": defineAsyncComponent(() => import(/* webpackChunkName: "v-744b8441" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/pwn/index.html.vue")),
+  // path: /python/Django/Django%20ORM.html
+  "v-2575cb86": defineAsyncComponent(() => import(/* webpackChunkName: "v-2575cb86" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/Django ORM.html.vue")),
+  // path: /python/Django/Django%E8%AF%B7%E6%B1%82%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.html
+  "v-480cf581": defineAsyncComponent(() => import(/* webpackChunkName: "v-480cf581" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/Django请求生命周期流程图.html.vue")),
+  // path: /python/Django/FBV%E4%B8%8ECBV.html
+  "v-b26e83e6": defineAsyncComponent(() => import(/* webpackChunkName: "v-b26e83e6" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/FBV与CBV.html.vue")),
+  // path: /python/Django/request%E5%AF%B9%E8%B1%A1%E6%96%B9%E6%B3%95%E5%88%9D%E8%AF%86.html
+  "v-5813a070": defineAsyncComponent(() => import(/* webpackChunkName: "v-5813a070" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/request对象方法初识.html.vue")),
+  // path: /python/Django/%E8%B7%AF%E7%94%B1%E5%B1%82.html
+  "v-2d7567d6": defineAsyncComponent(() => import(/* webpackChunkName: "v-2d7567d6" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/路由层.html.vue")),
+  // path: /python/Django/%E8%BF%9E%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93.html
+  "v-5c8ccce6": defineAsyncComponent(() => import(/* webpackChunkName: "v-5c8ccce6" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/连接数据库.html.vue")),
+  // path: /python/Django/%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%E9%85%8D%E7%BD%AE.html
+  "v-a5966516": defineAsyncComponent(() => import(/* webpackChunkName: "v-a5966516" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/Django/静态文件配置.html.vue")),
+  // path: /python/python%E5%9F%BA%E7%A1%80/01.%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%B5%B7%E6%AD%A5.html
+  "v-6ebb4939": defineAsyncComponent(() => import(/* webpackChunkName: "v-6ebb4939" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/python基础/01.第一章-起步.html.vue")),
+  // path: /python/python%E5%9F%BA%E7%A1%80/02.%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html
+  "v-26ddff1b": defineAsyncComponent(() => import(/* webpackChunkName: "v-26ddff1b" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/python基础/02.第二章-变量和简单数据结构.html.vue")),
+  // path: /python/python%E5%9F%BA%E7%A1%80/03.%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%88%97%E8%A1%A8%E7%AE%80%E4%BB%8B.html
+  "v-49cf08a0": defineAsyncComponent(() => import(/* webpackChunkName: "v-49cf08a0" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/python基础/03.第三章-列表简介.html.vue")),
+  // path: /python/python%E5%9F%BA%E7%A1%80/04.%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.html
+  "v-3a087bca": defineAsyncComponent(() => import(/* webpackChunkName: "v-3a087bca" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/python基础/04.第四章-操作列表.html.vue")),
+  // path: /python/python%E5%9F%BA%E7%A1%80/05.%E7%AC%AC%E4%BA%94%E7%AB%A0-if%E8%AF%AD%E5%8F%A5.html
+  "v-12bb3064": defineAsyncComponent(() => import(/* webpackChunkName: "v-12bb3064" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/python基础/05.第五章-if语句.html.vue")),
+  // path: /python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.html
+  "v-7298fe68": defineAsyncComponent(() => import(/* webpackChunkName: "v-7298fe68" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/python/python基础/06.第六章-字典.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/32937/Desktop/demo/vuepress/docs/.vuepress/.temp/pages/404.html.vue")),
 }

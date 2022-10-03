@@ -1,7 +1,5 @@
-<a name="use_after_free"></a>
-# use_after_free
+# 08.use_after_free
 
-<a name="b6724cff"></a>
 ## 原理
 
  简单的说，Use After Free 就是其字面所表达的意思，当一个内存块被释放之后再次被使用。但是其实这里有以下几种情况：
