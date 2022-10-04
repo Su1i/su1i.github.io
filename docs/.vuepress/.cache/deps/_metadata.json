@@ -89,7 +89,7 @@
     "@theme-hope/components/CommonWrapper.js": {
       "src": "../../../../node_modules/vuepress-theme-hope/lib/client/components/CommonWrapper.js",
       "file": "@theme-hope_components_CommonWrapper__js.js",
-      "fileHash": "00015bb6",
+      "fileHash": "8bcfca81",
       "needsInterop": false
     },
     "@theme-hope/components/HomePage.js": {
@@ -101,7 +101,7 @@
     "@theme-hope/components/NormalPage.js": {
       "src": "../../../../node_modules/vuepress-theme-hope/lib/client/components/NormalPage.js",
       "file": "@theme-hope_components_NormalPage__js.js",
-      "fileHash": "3daec3fa",
+      "fileHash": "5daa6e1d",
       "needsInterop": false
     },
     "@theme-hope/modules/navbar/components/Navbar.js": {
@@ -113,7 +113,7 @@
     "@theme-hope/modules/sidebar/components/Sidebar.js": {
       "src": "../../../../node_modules/vuepress-theme-hope/lib/client/modules/sidebar/components/Sidebar.js",
       "file": "@theme-hope_modules_sidebar_components_Sidebar__js.js",
-      "fileHash": "1eddc46d",
+      "fileHash": "79aceaa8",
       "needsInterop": false
     },
     "@theme-hope/composables/index.js": {
@@ -131,7 +131,7 @@
     "@theme-hope/modules/sidebar/composables/index.js": {
       "src": "../../../../node_modules/vuepress-theme-hope/lib/client/modules/sidebar/composables/index.js",
       "file": "@theme-hope_modules_sidebar_composables_index__js.js",
-      "fileHash": "f6d804e9",
+      "fileHash": "6ed68e7b",
       "needsInterop": false
     },
     "@theme-hope/modules/encrypt/components/GloablEncrypt.js": {
@@ -181,8 +181,8 @@
     "chunk-BGOVVDTY": {
       "file": "chunk-BGOVVDTY.js"
     },
-    "chunk-HVP6RUEG": {
-      "file": "chunk-HVP6RUEG.js"
+    "chunk-L6AEWHM3": {
+      "file": "chunk-L6AEWHM3.js"
     },
     "chunk-2Y2GJADG": {
       "file": "chunk-2Y2GJADG.js"

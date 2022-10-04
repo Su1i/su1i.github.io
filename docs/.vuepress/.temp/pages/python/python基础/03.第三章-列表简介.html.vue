@@ -1,4 +1,5 @@
-<template><div><p><a name="93812c3d"></a></p>
+<template><div><h1 id="_03-第三章-列表简介" tabindex="-1"><a class="header-anchor" href="#_03-第三章-列表简介" aria-hidden="true">#</a> 03.第三章 列表简介</h1>
+<p><a name="93812c3d"></a></p>
 <h2 id="_3-1-列表是什么" tabindex="-1"><a class="header-anchor" href="#_3-1-列表是什么" aria-hidden="true">#</a> 3.1 列表是什么</h2>
 <p>列表由一系列按特定顺序排列的元素组成。<br />在Python中，用方括号（[]）来表示列表，并用逗号来分隔其中的元素。下面是一个简单的列表示例，这个列表包含几种自行车：</p>
 <div class="language-python ext-py line-numbers-mode"><pre v-pre class="language-python"><code>bicycles <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'trek'</span><span class="token punctuation">,</span> <span class="token string">'cannondale'</span><span class="token punctuation">,</span> <span class="token string">'redline'</span><span class="token punctuation">,</span> <span class="token string">'specialized'</span><span class="token punctuation">]</span> 

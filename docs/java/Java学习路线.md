@@ -1,4 +1,3 @@
-<a name="c9768ded"></a>
 # Java 学习路线
 
 > Java 学习路线一条龙版 by 程序员鱼皮

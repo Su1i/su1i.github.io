@@ -1,4 +1,5 @@
-<template><div><p><a name="CQIaV"></a></p>
+<template><div><h1 id="request对象方法初识" tabindex="-1"><a class="header-anchor" href="#request对象方法初识" aria-hidden="true">#</a> request对象方法初识</h1>
+<p><a name="CQIaV"></a></p>
 <h2 id="request-method" tabindex="-1"><a class="header-anchor" href="#request-method" aria-hidden="true">#</a> request.method</h2>
 <p>返回请求方式，并且是全大写的字符串形式
 <a name="IIKyb"></a></p>

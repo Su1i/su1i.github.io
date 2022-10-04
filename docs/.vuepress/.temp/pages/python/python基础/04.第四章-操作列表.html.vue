@@ -1,4 +1,5 @@
-<template><div><p><a name="caf77209"></a></p>
+<template><div><h1 id="_04-第四章-操作列表" tabindex="-1"><a class="header-anchor" href="#_04-第四章-操作列表" aria-hidden="true">#</a> 04.第四章 操作列表</h1>
+<p><a name="caf77209"></a></p>
 <h2 id="_4-1-遍历整个列表" tabindex="-1"><a class="header-anchor" href="#_4-1-遍历整个列表" aria-hidden="true">#</a> 4.1 遍历整个列表</h2>
 <p>需要对列表中的每个元素都执行相同的操作时，可使用Python中的for循环。<br />下面使用for循环来打印魔术师名单中的所有名字：</p>
 <div class="language-python ext-py line-numbers-mode"><pre v-pre class="language-python"><code>magicians <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'alice'</span><span class="token punctuation">,</span> <span class="token string">'david'</span><span class="token punctuation">,</span> <span class="token string">'carolina'</span><span class="token punctuation">]</span> 

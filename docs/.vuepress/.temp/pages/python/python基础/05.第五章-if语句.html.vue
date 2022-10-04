@@ -1,4 +1,5 @@
-<template><div><p><a name="86265123"></a></p>
+<template><div><h1 id="_05-第五章-if语句" tabindex="-1"><a class="header-anchor" href="#_05-第五章-if语句" aria-hidden="true">#</a> 05.第五章 if语句</h1>
+<p><a name="86265123"></a></p>
 <h2 id="_5-1-一个简单示例" tabindex="-1"><a class="header-anchor" href="#_5-1-一个简单示例" aria-hidden="true">#</a> 5.1 一个简单示例</h2>
 <div class="language-python ext-py line-numbers-mode"><pre v-pre class="language-python"><code>cars <span class="token operator">=</span> <span class="token punctuation">[</span><span class="token string">'audi'</span><span class="token punctuation">,</span> <span class="token string">'bmw'</span><span class="token punctuation">,</span> <span class="token string">'subaru'</span><span class="token punctuation">,</span> <span class="token string">'toyota'</span><span class="token punctuation">]</span> 
 <span class="token keyword">for</span> car <span class="token keyword">in</span> cars<span class="token punctuation">:</span> 

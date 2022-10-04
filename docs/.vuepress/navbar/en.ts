@@ -2,29 +2,20 @@ import { navbar } from "vuepress-theme-hope";
 
 export const enNavbar = navbar([
   "/",
-  { text: "Demo", icon: "discover", link: "/demo/" },
+  { text: "个人笔记", icon: "note", link: "/demo/" },
+  // { text: "English", icon: "note", link: "/demo/" },
+  // { text: "LeetCode", icon: "note", link: "/demo/" },
   {
-    text: "Guide",
-    icon: "creative",
+    text: "项目文档",
+    icon: "note",
     prefix: "/guide/",
     children: [
       {
-        text: "Bar",
+        text: "劝学网课系统",
         icon: "creative",
-        prefix: "bar/",
-        children: ["baz", { text: "...", icon: "more", link: "" }],
-      },
-      {
-        text: "Foo",
-        icon: "config",
-        prefix: "foo/",
-        children: ["ray", { text: "...", icon: "more", link: "" }],
+        link: "/demo/"
       },
     ],
   },
-  {
-    text: "V2 Docs",
-    icon: "note",
-    link: "https://vuepress-theme-hope.github.io/v2/",
-  },
+  { text: "杂七杂八", icon: "blog", link: "/demo/" },
 ]);

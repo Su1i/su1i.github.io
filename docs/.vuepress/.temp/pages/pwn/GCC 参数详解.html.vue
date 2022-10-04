@@ -1,4 +1,5 @@
-<template><div><p><a name="ff7c7524"></a></p>
+<template><div><h1 id="gcc参数详解" tabindex="-1"><a class="header-anchor" href="#gcc参数详解" aria-hidden="true">#</a> GCC参数详解</h1>
+<p><a name="ff7c7524"></a></p>
 <h2 id="pwn——gcc编译中几种保护打开和关闭的参数" tabindex="-1"><a class="header-anchor" href="#pwn——gcc编译中几种保护打开和关闭的参数" aria-hidden="true">#</a> PWN——GCC编译中几种保护打开和关闭的参数</h2>
 <ul>
 <li>NX：-z execstack / -z noexecstack (关闭 / 开启)    栈不可执行，开启后不会把栈上的数据当作代码来执行</li>

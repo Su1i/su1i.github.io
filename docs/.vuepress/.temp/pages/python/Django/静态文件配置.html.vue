@@ -1,4 +1,5 @@
-<template><div><p>我们将HTML文件默认放在templates文件夹下，将静态文件放到static文件夹下。4
+<template><div><h1 id="静态文件配置" tabindex="-1"><a class="header-anchor" href="#静态文件配置" aria-hidden="true">#</a> 静态文件配置</h1>
+<p>我们将HTML文件默认放在templates文件夹下，将静态文件放到static文件夹下。4
 <a name="XNXhO"></a></p>
 <h2 id="静态文件" tabindex="-1"><a class="header-anchor" href="#静态文件" aria-hidden="true">#</a> 静态文件：</h2>
 <p>前端已经写好了的，能够直接调用使用的文件<br />django默认不会创建static文件夹，需手动创建并进行进一步划分<br />static文件夹：</p>
@@ -9,7 +10,7 @@
 <li>其他第三方文件
 <a name="wTJTM"></a></li>
 </ul>
-<h2 id="静态文件配置" tabindex="-1"><a class="header-anchor" href="#静态文件配置" aria-hidden="true">#</a> 静态文件配置：</h2>
+<h2 id="静态文件配置-1" tabindex="-1"><a class="header-anchor" href="#静态文件配置-1" aria-hidden="true">#</a> 静态文件配置：</h2>
 <p><a name="YWEEc"></a></p>
 <h3 id="缓存问题" tabindex="-1"><a class="header-anchor" href="#缓存问题" aria-hidden="true">#</a> 缓存问题：</h3>
 <p>当你在写django项目的时候，可能会出现后端代码修改了但前端页面没有变化的情况：</p>

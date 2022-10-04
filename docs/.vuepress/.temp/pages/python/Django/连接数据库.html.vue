@@ -1,4 +1,5 @@
-<template><div><p><a name="jzwpq"></a></p>
+<template><div><h1 id="连接数据库" tabindex="-1"><a class="header-anchor" href="#连接数据库" aria-hidden="true">#</a> 连接数据库</h1>
+<p><a name="jzwpq"></a></p>
 <h2 id="pycharm连接数据库" tabindex="-1"><a class="header-anchor" href="#pycharm连接数据库" aria-hidden="true">#</a> pycharm连接数据库</h2>
 <p>三个位置查找数据库相关：</p>
 <ul>

@@ -1,4 +1,5 @@
-<template><div><p><a name="M3AVt"></a></p>
+<template><div><h1 id="_02-第二章-变量和简单的数据结构" tabindex="-1"><a class="header-anchor" href="#_02-第二章-变量和简单的数据结构" aria-hidden="true">#</a> 02.第二章 变量和简单的数据结构</h1>
+<p><a name="M3AVt"></a></p>
 <h2 id="_2-1运行hello-world-py时发生的情况" tabindex="-1"><a class="header-anchor" href="#_2-1运行hello-world-py时发生的情况" aria-hidden="true">#</a> 2.1运行hello_world.py时发生的情况</h2>
 <p><a name="Kshp4"></a></p>
 <h2 id="_2-2-变量" tabindex="-1"><a class="header-anchor" href="#_2-2-变量" aria-hidden="true">#</a> 2.2 变量</h2>

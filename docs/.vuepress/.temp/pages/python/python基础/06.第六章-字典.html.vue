@@ -1,4 +1,5 @@
-<template><div><p><a name="e36d6359"></a></p>
+<template><div><h1 id="_06-第六章-字典" tabindex="-1"><a class="header-anchor" href="#_06-第六章-字典" aria-hidden="true">#</a> 06.第六章 字典</h1>
+<p><a name="e36d6359"></a></p>
 <h2 id="_6-1-一个简单的字典" tabindex="-1"><a class="header-anchor" href="#_6-1-一个简单的字典" aria-hidden="true">#</a> 6.1 一个简单的字典</h2>
 <p>来看一个游戏，其中包含一些外星人，这些外星人的颜色和点数各不相同。下面是一个简单的字典，存储了有关特定外星人的信息：</p>
 <div class="language-python ext-py line-numbers-mode"><pre v-pre class="language-python"><code>alien_0 <span class="token operator">=</span> <span class="token punctuation">{</span><span class="token string">'color'</span><span class="token punctuation">:</span> <span class="token string">'green'</span><span class="token punctuation">,</span> <span class="token string">'points'</span><span class="token punctuation">:</span> <span class="token number">5</span><span class="token punctuation">}</span> 

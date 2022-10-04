@@ -1,4 +1,5 @@
-<template><div><p>视图函数可以是函数也可以是类
+<template><div><h1 id="fbv与cbv" tabindex="-1"><a class="header-anchor" href="#fbv与cbv" aria-hidden="true">#</a> FBV与CBV</h1>
+<p>视图函数可以是函数也可以是类
 <a name="PkkLV"></a></p>
 <h2 id="fbv" tabindex="-1"><a class="header-anchor" href="#fbv" aria-hidden="true">#</a> FBV</h2>
 <div class="language-python ext-py line-numbers-mode"><pre v-pre class="language-python"><code><span class="token keyword">def</span> <span class="token function">index</span><span class="token punctuation">(</span>request<span class="token punctuation">)</span><span class="token punctuation">:</span>
