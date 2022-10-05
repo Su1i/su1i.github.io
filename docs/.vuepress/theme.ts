@@ -3,22 +3,28 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://vuepress-theme-hope-docs-demo.netlify.app",
+  hostname: "https://github.com/Su1i",
 
   author: {
     name: "Suli",
-    url: "https://mrhope.site",
+    url: "https://github.com/Su1i",
   },
 
   iconAssets: "iconfont",
 
-  logo: "/logo.svg",
+  logo: "/caiji.jpg",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/Su1i/notes",
 
-  docsDir: "demo/theme-docs/src",
+  docsDir: "docs",
 
   pageInfo: ["Author", "Original", "Date", "Category", "Tag", "ReadingTime"],
+
+  navbarLayout: {
+    left: ["Brand"],
+    center: ["Links"],
+    right: ["Repo", "Outlook", "Search"],
+  },
 
   locales: {
     "/": {

@@ -17,5 +17,5 @@ export const enNavbar = navbar([
       },
     ],
   },
-  { text: "杂七杂八", icon: "blog", link: "/demo/" },
+  { text: "杂七杂八", icon: "blog", link: "/blog/" },
 ]);
