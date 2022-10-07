@@ -8,4 +8,4 @@ category:
 
 ## 目录
 
-- [java基础](docs/java/Java学习路线.md)
+- [java基础](docs/java/Java学习路线.html)
