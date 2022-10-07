@@ -95,4 +95,6 @@ export const pagesComponents = {
   "v-794da1fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-794da1fe" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/index.html.vue")),
   // path: /404.html
   "v-3706649a": defineAsyncComponent(() => import(/* webpackChunkName: "v-3706649a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/404.html.vue")),
+  // path: /home.html
+  "v-79fdd481": defineAsyncComponent(() => import(/* webpackChunkName: "v-79fdd481" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/home.html.vue")),
 }

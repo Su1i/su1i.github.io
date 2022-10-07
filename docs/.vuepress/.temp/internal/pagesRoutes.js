@@ -46,4 +46,5 @@ export const pagesRoutes = [
   ["v-7298fe68","/python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.html",{"title":"06.第六章 字典"},["/python/python基础/06.第六章-字典.html","/python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8","/python/python基础/06.第六章-字典.md","/python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.md"]],
   ["v-794da1fe","/python/python%E5%9F%BA%E7%A1%80/",{"title":"python基础","icon":"creative"},["/python/python基础/","/python/python%E5%9F%BA%E7%A1%80/index.html","/python/python基础/README.md","/python/python%E5%9F%BA%E7%A1%80/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
+  ["v-79fdd481","/home.html",{"title":"主要功能与配置演示","icon":"creative"},["/home","/home.md"]],
 ]
