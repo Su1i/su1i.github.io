@@ -21,12 +21,12 @@ import "./chunk-5E3NKPRU.js";
 // node_modules/vuepress-plugin-comment2/lib/client/components/Waline.js
 import { Waline as w } from "@waline/client/dist/component.mjs";
 import { pageviewCount as d } from "@waline/client/dist/pageview.mjs";
-import "C:/Users/32937/Desktop/demo/vuepress/node_modules/@waline/client/dist/waline.css";
-import "C:/Users/32937/Desktop/demo/vuepress/node_modules/vuepress-plugin-comment2/lib/client/styles/waline.scss";
+import "C:/Users/32937/Desktop/demo/su1i.github.io/node_modules/@waline/client/dist/waline.css";
+import "C:/Users/32937/Desktop/demo/su1i.github.io/node_modules/vuepress-plugin-comment2/lib/client/styles/waline.scss";
 var e = COMMENT_OPTIONS;
 var k = WALINE_LOCALES;
 var i = Boolean(e.serverURL);
-WALINE_META && import("C:/Users/32937/Desktop/demo/vuepress/node_modules/@waline/client/dist/waline-meta.css");
+WALINE_META && import("C:/Users/32937/Desktop/demo/su1i.github.io/node_modules/@waline/client/dist/waline-meta.css");
 var A = defineComponent({ name: "WalineComment", setup() {
   const a = useRoute(), l = (0, client_exports.usePageFrontmatter)(), p = (0, client_exports.usePageLang)(), s = Dt(k);
   let t;
