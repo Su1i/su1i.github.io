@@ -8,7 +8,7 @@ export const pagesRoutes = [
   ["v-c151bf32","/demo/encrypt.html",{"title":"密码加密的文章","icon":"lock"},["/demo/encrypt","/demo/encrypt.md"]],
   ["v-438ffe52","/demo/markdown.html",{"title":"Markdown 展示","icon":"markdown"},["/demo/markdown","/demo/markdown.md"]],
   ["v-6e19edb7","/demo/page.html",{"title":"页面配置","icon":"page"},["/demo/page","/demo/page.md"]],
-  ["v-1473bf53","/demo/",{"title":"主要功能与配置演示","icon":"creative"},["/demo/index.html","/demo/README.md"]],
+  ["v-1473bf53","/demo/",{"title":"菜鸡的自我救赎","icon":"creative"},["/demo/index.html","/demo/README.md"]],
   ["v-472e01d8","/English/",{"title":"English","icon":"creative"},["/English/index.html","/English/README.md"]],
   ["v-3912f594","/English/%E8%AF%AD%E6%B3%95.html",{"title":"语法体系"},["/English/语法.html","/English/%E8%AF%AD%E6%B3%95","/English/语法.md","/English/%E8%AF%AD%E6%B3%95.md"]],
   ["v-ebae17d0","/English/%E9%9F%B3%E6%A0%87.html",{"title":"音标"},["/English/音标.html","/English/%E9%9F%B3%E6%A0%87","/English/音标.md","/English/%E9%9F%B3%E6%A0%87.md"]],
@@ -46,5 +46,4 @@ export const pagesRoutes = [
   ["v-7298fe68","/python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.html",{"title":"06.第六章 字典"},["/python/python基础/06.第六章-字典.html","/python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8","/python/python基础/06.第六章-字典.md","/python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.md"]],
   ["v-794da1fe","/python/python%E5%9F%BA%E7%A1%80/",{"title":"python基础","icon":"creative"},["/python/python基础/","/python/python%E5%9F%BA%E7%A1%80/index.html","/python/python基础/README.md","/python/python%E5%9F%BA%E7%A1%80/README.md"]],
   ["v-3706649a","/404.html",{"title":""},["/404"]],
-  ["v-79fdd481","/home.html",{"title":"主要功能与配置演示","icon":"creative"},["/home","/home.md"]],
 ]

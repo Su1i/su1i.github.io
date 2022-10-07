@@ -7,7 +7,7 @@ heroText: 菜鸡的自我救赎
 tagline: java后端萌新的个人知识库。
 actions:
   - text: 开始阅读
-    link: home.md
+    link: /demo/
     type: primary
 
 features:

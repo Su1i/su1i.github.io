@@ -1,17 +1,21 @@
 ---
-title: 主要功能与配置演示
+title: 菜鸡的自我救赎
 index: true
 icon: creative
 category:
-  - 使用指南
+  - 阅读指南
 ---
 
 ## 目录
 
-- [java基础](docs/java/Java学习路线.md)
+- [java基础](/java/)
 
-- [页面展示](page.md)
+- [常用框架](/framework/)
 
-- [禁用展示](disable.md)
+- [LeetCode](disable.md)
 
-- [加密展示](encrypt.md)
+- [数据库](/database/)
+
+- [开发工具](/tools/)
+
+- [Python](/python/)
