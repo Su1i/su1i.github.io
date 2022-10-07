@@ -2,7 +2,7 @@
 home: true
 icon: home
 title: 知识库主页
-heroImage: /caiji.jpg
+heroImage: https://img-1305804786.cos.ap-beijing.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221007134544.jpg
 heroText: 菜鸡的自我救赎
 tagline: java后端萌新的个人知识库。
 actions:

@@ -3,7 +3,7 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://github.com/Su1i",
+  hostname: "https://www.lovecode.icu",
 
   author: {
     name: "Suli",
@@ -12,7 +12,7 @@ export default hopeTheme({
 
   iconAssets: "iconfont",
 
-  logo: "/caiji.jpg",
+  logo: "https://img-1305804786.cos.ap-beijing.myqcloud.com/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20221007134544.jpg",
 
   repo: "https://github.com/Su1i/notes",
 
@@ -25,6 +25,14 @@ export default hopeTheme({
     center: ["Links"],
     right: ["Repo", "Outlook", "Search"],
   },
+
+  themeColor: {
+    blue: "#2196f3",
+    red: "#f26d6d",
+    green: "#3eaf7c",
+    orange: "#fb9b5f",
+  },
+  fullscreen: true,
 
   locales: {
     "/": {
