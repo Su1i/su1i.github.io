@@ -54,7 +54,7 @@ export const enSidebar = sidebar({
         icon: "tip",
         link: "linux/",
         prefix: "linux/",
-        children: ["01.安装linux的多种方式"],
+        children: ["01.安装linux系统的多种方式"],
       }, ]
     },
     {
