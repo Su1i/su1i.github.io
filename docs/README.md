@@ -58,11 +58,6 @@ features:
 
   - title: 网络安全
     icon: debug
-    details: web安全，SQL注入，XSS等，CTF刷题记录
-    link: /CTF/
-
-  - title: 二进制安全
-    icon: stack
-    details: linux二进制安全入门教程，随缘更新，已脱坑。
+    details: web安全,linux二进制安全入门，随缘更新，已脱坑。
     link: /pwn/
 ---
