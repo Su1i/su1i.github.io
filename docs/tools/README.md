@@ -1,7 +1,6 @@
 ---
 title: tools
 index: true
-icon: creative
 category:
 - tools
 ---

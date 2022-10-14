@@ -18,14 +18,14 @@ import {
 import {
   AutoLink_default,
   Icon_default
-} from "./chunk-5B7P5QJ5.js";
+} from "./chunk-JAVKUPSH.js";
+import {
+  client_exports
+} from "./chunk-FECFGNAG.js";
 import {
   isLinkExternal,
   isLinkHttp
 } from "./chunk-LS4IQIE6.js";
-import {
-  client_exports
-} from "./chunk-FECFGNAG.js";
 import {
   RouterLink,
   useRoute,

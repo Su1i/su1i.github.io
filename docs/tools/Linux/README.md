@@ -1,7 +1,6 @@
 ---
 title: 概述
 index: true
-icon: creative
 category:
 - tools
 ---
