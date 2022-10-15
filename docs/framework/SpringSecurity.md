@@ -9,6 +9,9 @@ category:
 
 # SpringSecurity从入门到精通
 
+b站up主三更草堂的视频笔记
+视频链接[SpringSecurity框架教程-Spring Security+JWT实现项目级前端分离认证授权-B站最通俗易懂的Spring Security课程](【SpringSecurity框架教程-Spring Security+JWT实现项目级前端分离认证授权-B站最通俗易懂的Spring Security课程】 https://www.bilibili.com/video/BV1mm4y1X7Hc?p=11&share_source=copy_web&vd_source=78dfff32824bb5eb63345c8cdf6cd5a8)
+
 ## 课程介绍
 
 ![image-20221015173225665](https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210151732799.png)
