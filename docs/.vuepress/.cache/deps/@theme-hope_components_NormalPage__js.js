@@ -10,7 +10,7 @@ import {
 } from "./chunk-HSW6OZB5.js";
 import {
   useSidebarItems
-} from "./chunk-352SWEXR.js";
+} from "./chunk-KJEJZJN4.js";
 import {
   useAutoLink,
   useNavigate,
@@ -33,16 +33,16 @@ import {
 import {
   AutoLink_default,
   Icon_default
-} from "./chunk-JAVKUPSH.js";
-import {
-  client_exports
-} from "./chunk-FECFGNAG.js";
+} from "./chunk-5B7P5QJ5.js";
 import {
   isLinkHttp,
   isPlainObject,
   removeEndingSlash,
   removeLeadingSlash
 } from "./chunk-LS4IQIE6.js";
+import {
+  client_exports
+} from "./chunk-FECFGNAG.js";
 import {
   RouterLink,
   useRoute,

@@ -1,19 +1,19 @@
 import {
-  DropTransition_default
-} from "./chunk-7GMCOJL4.js";
-import {
   MarkdownContent_default
 } from "./chunk-BPXOLMLA.js";
 import {
+  DropTransition_default
+} from "./chunk-7GMCOJL4.js";
+import {
   AutoLink_default,
   Icon_default
-} from "./chunk-JAVKUPSH.js";
-import {
-  client_exports
-} from "./chunk-FECFGNAG.js";
+} from "./chunk-5B7P5QJ5.js";
 import {
   isLinkExternal
 } from "./chunk-LS4IQIE6.js";
+import {
+  client_exports
+} from "./chunk-FECFGNAG.js";
 import {
   RouterLink
 } from "./chunk-U27KJSRC.js";
