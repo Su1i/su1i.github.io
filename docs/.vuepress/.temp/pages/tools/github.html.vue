@@ -1,0 +1,30 @@
+<template><div><h1 id="github工作流" tabindex="-1"><a class="header-anchor" href="#github工作流" aria-hidden="true">#</a> github工作流</h1>
+<p>来自B站up主码农高天的视频[](【十分钟学会正确的github工作流，和开源作者们使用同一套流程】 <a href="https://www.bilibili.com/video/BV19e4y1q7JJ?share_source=copy_web&amp;vd_source=78dfff32824bb5eb63345c8cdf6cd5a8" target="_blank" rel="noopener noreferrer">https://www.bilibili.com/video/BV19e4y1q7JJ?share_source=copy_web&amp;vd_source=78dfff32824bb5eb63345c8cdf6cd5a8<ExternalLinkIcon/></a>)</p>
+<ol>
+<li>git clone // 到本地</li>
+<li>git checkout -b xxx 切换至新分支xxx（相当于复制了remote的仓库到本地的xxx分支上</li>
+<li>修改或者添加本地代码（部署在硬盘的源文件上）</li>
+<li>git diff 查看自己对代码做出的改变</li>
+<li>git add 上传更新后的代码至暂存区</li>
+<li>git commit 可以将暂存区里更新后的代码更新到本地git</li>
+<li>git push origin xxx 将本地的xxxgit分支上传至github上的git</li>
+</ol>
+<hr>
+<p>（如果在写自己的代码过程中发现远端GitHub上代码出现改变）</p>
+<ol>
+<li>git checkout main 切换回main分支</li>
+<li>git pull origin master(main) 将远端修改过的代码再更新到本地</li>
+<li>git checkout xxx 回到xxx分支</li>
+<li>git rebase main 我在xxx分支上，先把main移过来，然后根据我的commit来修改成新的内容（中途可能会出现，rebase conflict -----》手动选择保留哪段代码）</li>
+<li>git push -f origin xxx 把rebase后并且更新过的代码再push到远端github上 （-f ---》强行）</li>
+<li>原项目主人采用pull request 中的 squash and merge 合并所有不同的commit</li>
+</ol>
+<hr>
+<p>远端完成更新后</p>
+<ol>
+<li>git branch -d xxx 删除本地的git分支</li>
+<li>git pull origin master 再把远端的最新代码拉至本地</li>
+</ol>
+</div></template>
+
+

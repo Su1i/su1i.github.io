@@ -55,7 +55,8 @@ export const enSidebar = sidebar({
         link: "linux/",
         prefix: "linux/",
         children: ["01.安装linux系统的多种方式"],
-      }, ]
+      }, "github"]
+      // children: "structure",
     },
     {
       text: "English",

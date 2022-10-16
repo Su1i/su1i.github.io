@@ -41,7 +41,7 @@ features:
     details: 操作系统，计算机网络，计算机组成原理，设计模式
     link: /basics/
 
-  - title: 开发工具
+  - title: 常用工具
     icon: tool
     details: git，docker，linux学习笔记
     link: /tools/
