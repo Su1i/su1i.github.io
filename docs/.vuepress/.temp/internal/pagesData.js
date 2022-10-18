@@ -5,6 +5,8 @@ export const pagesData = {
   "v-563401b1": () => import(/* webpackChunkName: "v-563401b1" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/basics/index.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
+  // path: /database/01-NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B.html
+  "v-36a66338": () => import(/* webpackChunkName: "v-36a66338" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/01-NoSQL数据库简介.html.js").then(({ data }) => data),
   // path: /database/
   "v-2e25198a": () => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.js").then(({ data }) => data),
   // path: /demo/disable.html
@@ -37,6 +39,8 @@ export const pagesData = {
   "v-31987621": () => import(/* webpackChunkName: "v-31987621" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/leetcode/index.html.js").then(({ data }) => data),
   // path: /project/
   "v-c9bbfba2": () => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/project/index.html.js").then(({ data }) => data),
+  // path: /python/
+  "v-63cd5dba": () => import(/* webpackChunkName: "v-63cd5dba" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/index.html.js").then(({ data }) => data),
   // path: /pwn/GCC%20%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.html
   "v-55d1b289": () => import(/* webpackChunkName: "v-55d1b289" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/GCC 参数详解.html.js").then(({ data }) => data),
   // path: /pwn/pwn01-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.html
@@ -57,8 +61,6 @@ export const pagesData = {
   "v-4932acfb": () => import(/* webpackChunkName: "v-4932acfb" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/pwn08-堆利用之uaf.html.js").then(({ data }) => data),
   // path: /pwn/
   "v-744b8441": () => import(/* webpackChunkName: "v-744b8441" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/index.html.js").then(({ data }) => data),
-  // path: /python/
-  "v-63cd5dba": () => import(/* webpackChunkName: "v-63cd5dba" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/index.html.js").then(({ data }) => data),
   // path: /tools/github.html
   "v-16ee8ec9": () => import(/* webpackChunkName: "v-16ee8ec9" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/tools/github.html.js").then(({ data }) => data),
   // path: /tools/

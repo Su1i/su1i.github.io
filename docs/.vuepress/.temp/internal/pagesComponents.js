@@ -7,6 +7,8 @@ export const pagesComponents = {
   "v-563401b1": defineAsyncComponent(() => import(/* webpackChunkName: "v-563401b1" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/basics/index.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/blog/index.html.vue")),
+  // path: /database/01-NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B.html
+  "v-36a66338": defineAsyncComponent(() => import(/* webpackChunkName: "v-36a66338" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/01-NoSQL数据库简介.html.vue")),
   // path: /database/
   "v-2e25198a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.vue")),
   // path: /demo/disable.html
@@ -39,6 +41,8 @@ export const pagesComponents = {
   "v-31987621": defineAsyncComponent(() => import(/* webpackChunkName: "v-31987621" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/leetcode/index.html.vue")),
   // path: /project/
   "v-c9bbfba2": defineAsyncComponent(() => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/project/index.html.vue")),
+  // path: /python/
+  "v-63cd5dba": defineAsyncComponent(() => import(/* webpackChunkName: "v-63cd5dba" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/index.html.vue")),
   // path: /pwn/GCC%20%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.html
   "v-55d1b289": defineAsyncComponent(() => import(/* webpackChunkName: "v-55d1b289" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/GCC 参数详解.html.vue")),
   // path: /pwn/pwn01-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.html
@@ -59,8 +63,6 @@ export const pagesComponents = {
   "v-4932acfb": defineAsyncComponent(() => import(/* webpackChunkName: "v-4932acfb" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/pwn08-堆利用之uaf.html.vue")),
   // path: /pwn/
   "v-744b8441": defineAsyncComponent(() => import(/* webpackChunkName: "v-744b8441" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/index.html.vue")),
-  // path: /python/
-  "v-63cd5dba": defineAsyncComponent(() => import(/* webpackChunkName: "v-63cd5dba" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/index.html.vue")),
   // path: /tools/github.html
   "v-16ee8ec9": defineAsyncComponent(() => import(/* webpackChunkName: "v-16ee8ec9" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/tools/github.html.vue")),
   // path: /tools/
