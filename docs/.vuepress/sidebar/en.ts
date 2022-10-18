@@ -33,7 +33,8 @@ export const enSidebar = sidebar({
       link: "database/",
       prefix: "database/",
       collapsable: true,
-      children: ["01-NoSQL数据库简介"],
+      children: ["01-NoSQL数据库简介",
+        "02-Redis概述安装"],
     },
     {
       text: "计算机基础",

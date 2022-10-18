@@ -10,7 +10,7 @@ import {
 } from "./chunk-HSW6OZB5.js";
 import {
   useSidebarItems
-} from "./chunk-KJEJZJN4.js";
+} from "./chunk-ENTGF42Q.js";
 import {
   useAutoLink,
   useNavigate,
