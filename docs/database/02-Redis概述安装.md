@@ -103,10 +103,6 @@ gcc --version
 
 ![img](https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101572.png) 
 
- 
-
- 
-
 ### 2.2.3 安装目录：/usr/local/bin
 
 查看默认安装目录：
@@ -123,7 +119,7 @@ redis-server：Redis服务器启动命令
 
 redis-cli：客户端，操作入口
 
-### 2.2.4 前台启动（不推荐）\****
+### 2.2.4 前台启动（不推荐）
 
 前台启动，命令行窗口不能关闭，否则服务器停止
 
@@ -134,6 +130,7 @@ redis-cli：客户端，操作入口
 #### 2.2.5.1 备份redis.conf
 
 拷贝一份redis.conf到其他目录
+
 ``` bash
 cp  /opt/redis-3.2.5/redis.conf  /myredis
 ```
@@ -143,6 +140,7 @@ cp  /opt/redis-3.2.5/redis.conf  /myredis
 修改redis.conf(128行)文件将里面的daemonize no 改成 yes，让服务在后台启动
 
 #### 2.2.5.3 Redis启动
+
 ```bash
 redis-server/myredis/redis.conf
 ```
@@ -173,8 +171,16 @@ redis-server/myredis/redis.conf
 
 ### 2.2.6 Redis介绍相关知识
 
-| 端口6379从何而来Alessia  Merz![img](https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101623.png) | 默认16个数据库，类似数组下标从0开始，初始默认使用0号库使用命令 select  <dbid>来切换数据库。如: select 8 统一密码管理，所有库同样密码。dbsize查看当前数据库的key的数量flushdb清空当前库flushall通杀全部库 |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
+端口6379从何而来Alessia  Merz
+![img](https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101623.png) 
+```bash
+- 默认16个数据库，类似数组下标从0开始，初始默认使用0号库
+- 使用命令 select  <dbid>来切换数据库。 如: select 8 
+- 统一密码管理，所有库同样密码。
+- dbsize查看当前数据库的key的数量
+- flushdb清空当前库
+- flushall通杀全部库
+```
 
 Redis是单线程+多路IO复用技术
 

@@ -93,7 +93,7 @@ scl <span class="token builtin class-name">enable</span> devtoolset-8 <span clas
 <p>redis-sentinel：Redis集群使用</p>
 <p>redis-server：Redis服务器启动命令</p>
 <p>redis-cli：客户端，操作入口</p>
-<h3 id="_2-2-4-前台启动-不推荐" tabindex="-1"><a class="header-anchor" href="#_2-2-4-前台启动-不推荐" aria-hidden="true">#</a> 2.2.4 前台启动（不推荐）****</h3>
+<h3 id="_2-2-4-前台启动-不推荐" tabindex="-1"><a class="header-anchor" href="#_2-2-4-前台启动-不推荐" aria-hidden="true">#</a> 2.2.4 前台启动（不推荐）</h3>
 <p>前台启动，命令行窗口不能关闭，否则服务器停止</p>
 <p><img src="https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101194.png" alt="img" loading="lazy"></p>
 <h3 id="_2-2-5-后台启动-推荐" tabindex="-1"><a class="header-anchor" href="#_2-2-5-后台启动-推荐" aria-hidden="true">#</a> 2.2.5 后台启动（推荐）</h3>
@@ -117,15 +117,15 @@ scl <span class="token builtin class-name">enable</span> devtoolset-8 <span clas
 <p><img src="https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101178.png" alt="img" loading="lazy"></p>
 <p>多实例关闭，指定端口关闭：redis-cli -p 6379 shutdown</p>
 <h3 id="_2-2-6-redis介绍相关知识" tabindex="-1"><a class="header-anchor" href="#_2-2-6-redis介绍相关知识" aria-hidden="true">#</a> 2.2.6 Redis介绍相关知识</h3>
-<table>
-<thead>
-<tr>
-<th>端口6379从何而来Alessia  Merz<img src="https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101623.png" alt="img" loading="lazy"></th>
-<th>默认16个数据库，类似数组下标从0开始，初始默认使用0号库使用命令 select  <dbid>来切换数据库。如: select 8 统一密码管理，所有库同样密码。dbsize查看当前数据库的key的数量flushdb清空当前库flushall通杀全部库</th>
-</tr>
-</thead>
-</table>
-<p>Redis是单线程+多路IO复用技术</p>
+<p>端口6379从何而来Alessia  Merz
+<img src="https://img-1305804786.cos.ap-beijing.myqcloud.com//picgo202210182101623.png" alt="img" loading="lazy"></p>
+<div class="language-bash ext-sh line-numbers-mode"><pre v-pre class="language-bash"><code>- 默认16个数据库，类似数组下标从0开始，初始默认使用0号库
+- 使用命令 <span class="token keyword">select</span>  <span class="token operator">&lt;</span>dbid<span class="token operator">></span>来切换数据库。 如: <span class="token keyword">select</span> <span class="token number">8</span> 
+- 统一密码管理，所有库同样密码。
+- dbsize查看当前数据库的key的数量
+- flushdb清空当前库
+- flushall通杀全部库
+</code></pre><div class="line-numbers" aria-hidden="true"><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div><div class="line-number"></div></div></div><p>Redis是单线程+多路IO复用技术</p>
 <p>多路复用是指使用一个线程来检查多个文件描述符（Socket）的就绪状态，比如调用select和poll函数，传入多个文件描述符，如果有一个文件描述符就绪，则返回，否则阻塞直到超时。得到就绪状态后进行真正的操作可以在同一个线程里执行，也可以启动线程执行（比如使用线程池）</p>
 <p>串行  vs  多线程+锁（memcached） vs  单线程+多路IO复用(Redis)</p>
 <p>（与Memcache三点不同: 支持多数据类型，支持持久化，单线程+多路IO复用）</p>
