@@ -11,6 +11,8 @@ export const pagesComponents = {
   "v-36a66338": defineAsyncComponent(() => import(/* webpackChunkName: "v-36a66338" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/01-NoSQL数据库简介.html.vue")),
   // path: /database/02-Redis%E6%A6%82%E8%BF%B0%E5%AE%89%E8%A3%85.html
   "v-452d51d4": defineAsyncComponent(() => import(/* webpackChunkName: "v-452d51d4" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/02-Redis概述安装.html.vue")),
+  // path: /database/03-%E5%B8%B8%E7%94%A8%E7%9A%84%E4%BA%94%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.html
+  "v-5a07b042": defineAsyncComponent(() => import(/* webpackChunkName: "v-5a07b042" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/03-常用的五大数据类型.html.vue")),
   // path: /database/
   "v-2e25198a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.vue")),
   // path: /demo/disable.html
