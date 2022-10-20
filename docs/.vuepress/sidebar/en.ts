@@ -37,6 +37,7 @@ export const enSidebar = sidebar({
           "01-NoSQL数据库简介",
           "02-Redis概述安装",
           "03-常用的五大数据类型",
+          "04-Redis配置文件介绍",
       ],
     },
     {
