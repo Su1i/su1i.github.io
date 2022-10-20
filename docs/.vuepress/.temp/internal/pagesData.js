@@ -13,6 +13,8 @@ export const pagesData = {
   "v-5a07b042": () => import(/* webpackChunkName: "v-5a07b042" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/03-常用的五大数据类型.html.js").then(({ data }) => data),
   // path: /database/04-Redis%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6%E4%BB%8B%E7%BB%8D.html
   "v-01b4ff06": () => import(/* webpackChunkName: "v-01b4ff06" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/04-Redis配置文件介绍.html.js").then(({ data }) => data),
+  // path: /database/05-Redis%E7%9A%84%E5%8F%91%E5%B8%83%E5%92%8C%E8%AE%A2%E9%98%85.html
+  "v-16911c98": () => import(/* webpackChunkName: "v-16911c98" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/05-Redis的发布和订阅.html.js").then(({ data }) => data),
   // path: /database/
   "v-2e25198a": () => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.js").then(({ data }) => data),
   // path: /demo/disable.html
