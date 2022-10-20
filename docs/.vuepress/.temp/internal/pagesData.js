@@ -17,6 +17,12 @@ export const pagesData = {
   "v-16911c98": () => import(/* webpackChunkName: "v-16911c98" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/05-Redis的发布和订阅.html.js").then(({ data }) => data),
   // path: /database/06-Redis%E6%96%B0%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.html
   "v-32933930": () => import(/* webpackChunkName: "v-32933930" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/06-Redis新数据类型.html.js").then(({ data }) => data),
+  // path: /database/07-Redis_Jedis_%E6%B5%8B%E8%AF%95.html
+  "v-0d14317c": () => import(/* webpackChunkName: "v-0d14317c" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/07-Redis_Jedis_测试.html.js").then(({ data }) => data),
+  // path: /database/08-Redis_Jedis_%E5%AE%9E%E4%BE%8B.html
+  "v-bd7bc47e": () => import(/* webpackChunkName: "v-bd7bc47e" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/08-Redis_Jedis_实例.html.js").then(({ data }) => data),
+  // path: /database/09-Redis%E4%B8%8ESpring%20Boot%E6%95%B4%E5%90%88.html
+  "v-7fe9bf50": () => import(/* webpackChunkName: "v-7fe9bf50" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/09-Redis与Spring Boot整合.html.js").then(({ data }) => data),
   // path: /database/
   "v-2e25198a": () => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.js").then(({ data }) => data),
   // path: /demo/disable.html
@@ -35,16 +41,16 @@ export const pagesData = {
   "v-3912f594": () => import(/* webpackChunkName: "v-3912f594" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/English/语法.html.js").then(({ data }) => data),
   // path: /English/%E9%9F%B3%E6%A0%87.html
   "v-ebae17d0": () => import(/* webpackChunkName: "v-ebae17d0" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/English/音标.html.js").then(({ data }) => data),
-  // path: /framework/
-  "v-7d72c4ac": () => import(/* webpackChunkName: "v-7d72c4ac" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/index.html.js").then(({ data }) => data),
-  // path: /framework/SpringSecurity.html
-  "v-26333afc": () => import(/* webpackChunkName: "v-26333afc" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/SpringSecurity.html.js").then(({ data }) => data),
   // path: /java/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html
   "v-267917aa": () => import(/* webpackChunkName: "v-267917aa" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/Java学习路线.html.js").then(({ data }) => data),
   // path: /java/
   "v-14c69af4": () => import(/* webpackChunkName: "v-14c69af4" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/index.html.js").then(({ data }) => data),
   // path: /java/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%AE%8B%E7%BA%A2%E5%BA%B7_JDBC.html
   "v-5aba5d9a": () => import(/* webpackChunkName: "v-5aba5d9a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/尚硅谷_宋红康_JDBC.html.js").then(({ data }) => data),
+  // path: /framework/
+  "v-7d72c4ac": () => import(/* webpackChunkName: "v-7d72c4ac" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/index.html.js").then(({ data }) => data),
+  // path: /framework/SpringSecurity.html
+  "v-26333afc": () => import(/* webpackChunkName: "v-26333afc" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/SpringSecurity.html.js").then(({ data }) => data),
   // path: /leetcode/
   "v-31987621": () => import(/* webpackChunkName: "v-31987621" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/leetcode/index.html.js").then(({ data }) => data),
   // path: /project/
