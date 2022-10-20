@@ -40,6 +40,7 @@ export const enSidebar = sidebar({
           "04-Redis配置文件介绍",
           "05-Redis的发布和订阅",
           "06-Redis新数据类型",
+          "07-Redis_Jedis_测试",
       ],
     },
     {
