@@ -17,6 +17,8 @@ export const pagesComponents = {
   "v-01b4ff06": defineAsyncComponent(() => import(/* webpackChunkName: "v-01b4ff06" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/04-Redis配置文件介绍.html.vue")),
   // path: /database/05-Redis%E7%9A%84%E5%8F%91%E5%B8%83%E5%92%8C%E8%AE%A2%E9%98%85.html
   "v-16911c98": defineAsyncComponent(() => import(/* webpackChunkName: "v-16911c98" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/05-Redis的发布和订阅.html.vue")),
+  // path: /database/06-Redis%E6%96%B0%E6%95%B0%E6%8D%AE%E7%B1%BB%E5%9E%8B.html
+  "v-32933930": defineAsyncComponent(() => import(/* webpackChunkName: "v-32933930" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/06-Redis新数据类型.html.vue")),
   // path: /database/
   "v-2e25198a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.vue")),
   // path: /demo/disable.html

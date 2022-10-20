@@ -39,6 +39,7 @@ export const enSidebar = sidebar({
           "03-常用的五大数据类型",
           "04-Redis配置文件介绍",
           "05-Redis的发布和订阅",
+          "06-Redis新数据类型",
       ],
     },
     {
