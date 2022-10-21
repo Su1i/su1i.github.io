@@ -44,6 +44,7 @@ export const enSidebar = sidebar({
           "08-Redis_Jedis_实例",
           "09-Redis与Spring Boot整合",
           "10-Redis_事务_锁机制_秒杀",
+          "11-Redis_事务_秒杀案例",
       ],
     },
     {
