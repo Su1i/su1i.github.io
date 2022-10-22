@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-275ebe48\",\"path\":\"/database/12.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BRDB.html\",\"title\":\"12.Redis持久化之RDB\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"12.Redis持久化之RDB\",\"index\":true,\"category\":[\"database\"],\"summary\":\"12.Redis持久化之RDB 12.1 总体介绍 官网介绍：http://www.redis.io Redis 提供了2个不同形式的持久化方式。\\rRDB（Redis DataBase）; \\rAOF（Append Of File）; 12.2 RDB（Redis DataBase） 12.2.1 官网介绍 12.2.2 是什么 在指定的时间间隔内将内存中的数\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://www.lovecode.icu/database/12.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BRDB.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"菜鸡的自我救赎\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"12.Redis持久化之RDB\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"12.1 总体介绍\",\"slug\":\"_12-1-总体介绍\",\"link\":\"#_12-1-总体介绍\",\"children\":[]},{\"level\":2,\"title\":\"12.2 RDB（Redis DataBase）\",\"slug\":\"_12-2-rdb-redis-database\",\"link\":\"#_12-2-rdb-redis-database\",\"children\":[{\"level\":3,\"title\":\"12.2.1 官网介绍\",\"slug\":\"_12-2-1-官网介绍\",\"link\":\"#_12-2-1-官网介绍\",\"children\":[]},{\"level\":3,\"title\":\"12.2.2 是什么\",\"slug\":\"_12-2-2-是什么\",\"link\":\"#_12-2-2-是什么\",\"children\":[]},{\"level\":3,\"title\":\"12.2.3 备份是如何执行的\",\"slug\":\"_12-2-3-备份是如何执行的\",\"link\":\"#_12-2-3-备份是如何执行的\",\"children\":[]},{\"level\":3,\"title\":\"12.2.4 Fork\",\"slug\":\"_12-2-4-fork\",\"link\":\"#_12-2-4-fork\",\"children\":[]},{\"level\":3,\"title\":\"12.2.5 RDB持久化流程\",\"slug\":\"_12-2-5-rdb持久化流程\",\"link\":\"#_12-2-5-rdb持久化流程\",\"children\":[]},{\"level\":3,\"title\":\"12.2.6 dump.rdb文件\",\"slug\":\"_12-2-6-dump-rdb文件\",\"link\":\"#_12-2-6-dump-rdb文件\",\"children\":[]},{\"level\":3,\"title\":\"12.2.7 配置位置\",\"slug\":\"_12-2-7-配置位置\",\"link\":\"#_12-2-7-配置位置\",\"children\":[]},{\"level\":3,\"title\":\"12.2.8 如何触发RDB快照；保持策略\",\"slug\":\"_12-2-8-如何触发rdb快照-保持策略\",\"link\":\"#_12-2-8-如何触发rdb快照-保持策略\",\"children\":[]},{\"level\":3,\"title\":\"12.2.9 优势\",\"slug\":\"_12-2-9-优势\",\"link\":\"#_12-2-9-优势\",\"children\":[]},{\"level\":3,\"title\":\"12.2.10 劣势\",\"slug\":\"_12-2-10-劣势\",\"link\":\"#_12-2-10-劣势\",\"children\":[]},{\"level\":3,\"title\":\"12.2.11 如何停止\",\"slug\":\"_12-2-11-如何停止\",\"link\":\"#_12-2-11-如何停止\",\"children\":[]},{\"level\":3,\"title\":\"12.2.12 小总结\",\"slug\":\"_12-2-12-小总结\",\"link\":\"#_12-2-12-小总结\",\"children\":[]}]}],\"readingTime\":{\"minutes\":4.1,\"words\":1231},\"filePathRelative\":\"database/12.Redis持久化之RDB.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}

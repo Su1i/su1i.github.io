@@ -7,16 +7,6 @@ export const pagesComponents = {
   "v-563401b1": defineAsyncComponent(() => import(/* webpackChunkName: "v-563401b1" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/basics/index.html.vue")),
   // path: /blog/
   "v-145ac574": defineAsyncComponent(() => import(/* webpackChunkName: "v-145ac574" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/blog/index.html.vue")),
-  // path: /demo/disable.html
-  "v-4e65ec78": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/disable.html.vue")),
-  // path: /demo/encrypt.html
-  "v-c151bf32": defineAsyncComponent(() => import(/* webpackChunkName: "v-c151bf32" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/encrypt.html.vue")),
-  // path: /demo/markdown.html
-  "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/markdown.html.vue")),
-  // path: /demo/page.html
-  "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/page.html.vue")),
-  // path: /demo/
-  "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/index.html.vue")),
   // path: /database/01.NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B.html
   "v-37dcb617": defineAsyncComponent(() => import(/* webpackChunkName: "v-37dcb617" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/01.NoSQL数据库简介.html.vue")),
   // path: /database/02.Redis%E6%A6%82%E8%BF%B0%E5%AE%89%E8%A3%85.html
@@ -43,8 +33,20 @@ export const pagesComponents = {
   "v-275ebe48": defineAsyncComponent(() => import(/* webpackChunkName: "v-275ebe48" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/12.Redis持久化之RDB.html.vue")),
   // path: /database/13.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BAOF.html
   "v-5ca460fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-5ca460fe" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/13.Redis持久化之AOF.html.vue")),
+  // path: /database/14.Redis_%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.html
+  "v-c00f4bf2": defineAsyncComponent(() => import(/* webpackChunkName: "v-c00f4bf2" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/14.Redis_主从复制.html.vue")),
   // path: /database/
   "v-2e25198a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.vue")),
+  // path: /demo/disable.html
+  "v-4e65ec78": defineAsyncComponent(() => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/disable.html.vue")),
+  // path: /demo/encrypt.html
+  "v-c151bf32": defineAsyncComponent(() => import(/* webpackChunkName: "v-c151bf32" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/encrypt.html.vue")),
+  // path: /demo/markdown.html
+  "v-438ffe52": defineAsyncComponent(() => import(/* webpackChunkName: "v-438ffe52" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/markdown.html.vue")),
+  // path: /demo/page.html
+  "v-6e19edb7": defineAsyncComponent(() => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/page.html.vue")),
+  // path: /demo/
+  "v-1473bf53": defineAsyncComponent(() => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/index.html.vue")),
   // path: /English/
   "v-472e01d8": defineAsyncComponent(() => import(/* webpackChunkName: "v-472e01d8" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/English/index.html.vue")),
   // path: /English/%E8%AF%AD%E6%B3%95.html

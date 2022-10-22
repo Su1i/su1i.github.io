@@ -5,16 +5,6 @@ export const pagesData = {
   "v-563401b1": () => import(/* webpackChunkName: "v-563401b1" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/basics/index.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
-  // path: /demo/disable.html
-  "v-4e65ec78": () => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/disable.html.js").then(({ data }) => data),
-  // path: /demo/encrypt.html
-  "v-c151bf32": () => import(/* webpackChunkName: "v-c151bf32" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/encrypt.html.js").then(({ data }) => data),
-  // path: /demo/markdown.html
-  "v-438ffe52": () => import(/* webpackChunkName: "v-438ffe52" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/markdown.html.js").then(({ data }) => data),
-  // path: /demo/page.html
-  "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
-  // path: /demo/
-  "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /database/01.NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B.html
   "v-37dcb617": () => import(/* webpackChunkName: "v-37dcb617" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/01.NoSQL数据库简介.html.js").then(({ data }) => data),
   // path: /database/02.Redis%E6%A6%82%E8%BF%B0%E5%AE%89%E8%A3%85.html
@@ -41,8 +31,20 @@ export const pagesData = {
   "v-275ebe48": () => import(/* webpackChunkName: "v-275ebe48" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/12.Redis持久化之RDB.html.js").then(({ data }) => data),
   // path: /database/13.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BAOF.html
   "v-5ca460fe": () => import(/* webpackChunkName: "v-5ca460fe" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/13.Redis持久化之AOF.html.js").then(({ data }) => data),
+  // path: /database/14.Redis_%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.html
+  "v-c00f4bf2": () => import(/* webpackChunkName: "v-c00f4bf2" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/14.Redis_主从复制.html.js").then(({ data }) => data),
   // path: /database/
   "v-2e25198a": () => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.js").then(({ data }) => data),
+  // path: /demo/disable.html
+  "v-4e65ec78": () => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/disable.html.js").then(({ data }) => data),
+  // path: /demo/encrypt.html
+  "v-c151bf32": () => import(/* webpackChunkName: "v-c151bf32" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/encrypt.html.js").then(({ data }) => data),
+  // path: /demo/markdown.html
+  "v-438ffe52": () => import(/* webpackChunkName: "v-438ffe52" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/markdown.html.js").then(({ data }) => data),
+  // path: /demo/page.html
+  "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
+  // path: /demo/
+  "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /English/
   "v-472e01d8": () => import(/* webpackChunkName: "v-472e01d8" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/English/index.html.js").then(({ data }) => data),
   // path: /English/%E8%AF%AD%E6%B3%95.html
