@@ -35,6 +35,8 @@ export const pagesComponents = {
   "v-5ca460fe": defineAsyncComponent(() => import(/* webpackChunkName: "v-5ca460fe" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/13.Redis持久化之AOF.html.vue")),
   // path: /database/14.Redis_%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.html
   "v-c00f4bf2": defineAsyncComponent(() => import(/* webpackChunkName: "v-c00f4bf2" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/14.Redis_主从复制.html.vue")),
+  // path: /database/15.Redis%E9%9B%86%E7%BE%A4.html
+  "v-49a456b4": defineAsyncComponent(() => import(/* webpackChunkName: "v-49a456b4" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/15.Redis集群.html.vue")),
   // path: /database/
   "v-2e25198a": defineAsyncComponent(() => import(/* webpackChunkName: "v-2e25198a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/index.html.vue")),
   // path: /demo/disable.html

@@ -16,6 +16,7 @@ export const pagesRoutes = [
   ["v-275ebe48","/database/12.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BRDB.html",{"title":"12.Redis持久化之RDB"},["/database/12.Redis持久化之RDB.html","/database/12.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BRDB","/database/12.Redis持久化之RDB.md","/database/12.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BRDB.md"]],
   ["v-5ca460fe","/database/13.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BAOF.html",{"title":"13.Redis持久化之AOF"},["/database/13.Redis持久化之AOF.html","/database/13.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BAOF","/database/13.Redis持久化之AOF.md","/database/13.Redis%E6%8C%81%E4%B9%85%E5%8C%96%E4%B9%8BAOF.md"]],
   ["v-c00f4bf2","/database/14.Redis_%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.html",{"title":"14.Redis_主从复制"},["/database/14.Redis_主从复制.html","/database/14.Redis_%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6","/database/14.Redis_主从复制.md","/database/14.Redis_%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6.md"]],
+  ["v-49a456b4","/database/15.Redis%E9%9B%86%E7%BE%A4.html",{"title":"15.Redis集群"},["/database/15.Redis集群.html","/database/15.Redis%E9%9B%86%E7%BE%A4","/database/15.Redis集群.md","/database/15.Redis%E9%9B%86%E7%BE%A4.md"]],
   ["v-2e25198a","/database/",{"title":"database","icon":"creative"},["/database/index.html","/database/README.md"]],
   ["v-4e65ec78","/demo/disable.html",{"title":"布局与功能禁用","icon":"config"},["/demo/disable","/demo/disable.md"]],
   ["v-c151bf32","/demo/encrypt.html",{"title":"密码加密的文章","icon":"lock"},["/demo/encrypt","/demo/encrypt.md"]],
