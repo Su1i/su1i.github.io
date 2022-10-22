@@ -52,6 +52,7 @@ export const enSidebar = sidebar({
           "13.Redis持久化之AOF",
           "14.Redis_主从复制",
           "15.Redis集群",
+          "16.Redis应用问题解决",
       ],
     },
     {
