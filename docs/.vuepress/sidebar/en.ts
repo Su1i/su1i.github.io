@@ -9,7 +9,10 @@ export const enSidebar = sidebar({
       link: "java/",
       prefix: "java/",
       collapsable: true,
-      children: "structure",
+      children: [
+          "01.Java学习路线",
+          "02.函数式编程-Stream流",
+      ],
     },
     {
       text: "LeetCode",

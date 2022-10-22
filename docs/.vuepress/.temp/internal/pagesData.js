@@ -5,16 +5,6 @@ export const pagesData = {
   "v-563401b1": () => import(/* webpackChunkName: "v-563401b1" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/basics/index.html.js").then(({ data }) => data),
   // path: /blog/
   "v-145ac574": () => import(/* webpackChunkName: "v-145ac574" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/blog/index.html.js").then(({ data }) => data),
-  // path: /demo/disable.html
-  "v-4e65ec78": () => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/disable.html.js").then(({ data }) => data),
-  // path: /demo/encrypt.html
-  "v-c151bf32": () => import(/* webpackChunkName: "v-c151bf32" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/encrypt.html.js").then(({ data }) => data),
-  // path: /demo/markdown.html
-  "v-438ffe52": () => import(/* webpackChunkName: "v-438ffe52" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/markdown.html.js").then(({ data }) => data),
-  // path: /demo/page.html
-  "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
-  // path: /demo/
-  "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /database/01-NoSQL%E6%95%B0%E6%8D%AE%E5%BA%93%E7%AE%80%E4%BB%8B.html
   "v-36a66338": () => import(/* webpackChunkName: "v-36a66338" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/database/01-NoSQL数据库简介.html.js").then(({ data }) => data),
   // path: /database/02-Redis%E6%A6%82%E8%BF%B0%E5%AE%89%E8%A3%85.html
@@ -47,20 +37,34 @@ export const pagesData = {
   "v-3912f594": () => import(/* webpackChunkName: "v-3912f594" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/English/语法.html.js").then(({ data }) => data),
   // path: /English/%E9%9F%B3%E6%A0%87.html
   "v-ebae17d0": () => import(/* webpackChunkName: "v-ebae17d0" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/English/音标.html.js").then(({ data }) => data),
+  // path: /demo/disable.html
+  "v-4e65ec78": () => import(/* webpackChunkName: "v-4e65ec78" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/disable.html.js").then(({ data }) => data),
+  // path: /demo/encrypt.html
+  "v-c151bf32": () => import(/* webpackChunkName: "v-c151bf32" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/encrypt.html.js").then(({ data }) => data),
+  // path: /demo/markdown.html
+  "v-438ffe52": () => import(/* webpackChunkName: "v-438ffe52" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/markdown.html.js").then(({ data }) => data),
+  // path: /demo/page.html
+  "v-6e19edb7": () => import(/* webpackChunkName: "v-6e19edb7" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/page.html.js").then(({ data }) => data),
+  // path: /demo/
+  "v-1473bf53": () => import(/* webpackChunkName: "v-1473bf53" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/demo/index.html.js").then(({ data }) => data),
   // path: /framework/
   "v-7d72c4ac": () => import(/* webpackChunkName: "v-7d72c4ac" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/index.html.js").then(({ data }) => data),
   // path: /framework/SpringSecurity.html
   "v-26333afc": () => import(/* webpackChunkName: "v-26333afc" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/SpringSecurity.html.js").then(({ data }) => data),
-  // path: /java/Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html
-  "v-267917aa": () => import(/* webpackChunkName: "v-267917aa" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/Java学习路线.html.js").then(({ data }) => data),
+  // path: /framework/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%AE%8B%E7%BA%A2%E5%BA%B7_JDBC.html
+  "v-da045586": () => import(/* webpackChunkName: "v-da045586" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/framework/尚硅谷_宋红康_JDBC.html.js").then(({ data }) => data),
+  // path: /java/01.Java%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.html
+  "v-a6721036": () => import(/* webpackChunkName: "v-a6721036" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/01.Java学习路线.html.js").then(({ data }) => data),
+  // path: /java/02.%E5%87%BD%E6%95%B0%E5%BC%8F%E7%BC%96%E7%A8%8B-Stream%E6%B5%81.html
+  "v-36530479": () => import(/* webpackChunkName: "v-36530479" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/02.函数式编程-Stream流.html.js").then(({ data }) => data),
   // path: /java/
   "v-14c69af4": () => import(/* webpackChunkName: "v-14c69af4" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/index.html.js").then(({ data }) => data),
-  // path: /java/%E5%B0%9A%E7%A1%85%E8%B0%B7_%E5%AE%8B%E7%BA%A2%E5%BA%B7_JDBC.html
-  "v-5aba5d9a": () => import(/* webpackChunkName: "v-5aba5d9a" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/java/尚硅谷_宋红康_JDBC.html.js").then(({ data }) => data),
   // path: /leetcode/
   "v-31987621": () => import(/* webpackChunkName: "v-31987621" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/leetcode/index.html.js").then(({ data }) => data),
   // path: /project/
   "v-c9bbfba2": () => import(/* webpackChunkName: "v-c9bbfba2" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/project/index.html.js").then(({ data }) => data),
+  // path: /python/
+  "v-63cd5dba": () => import(/* webpackChunkName: "v-63cd5dba" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/index.html.js").then(({ data }) => data),
   // path: /pwn/GCC%20%E5%8F%82%E6%95%B0%E8%AF%A6%E8%A7%A3.html
   "v-55d1b289": () => import(/* webpackChunkName: "v-55d1b289" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/GCC 参数详解.html.js").then(({ data }) => data),
   // path: /pwn/pwn01-%E7%8E%AF%E5%A2%83%E9%85%8D%E7%BD%AE.html
@@ -81,12 +85,24 @@ export const pagesData = {
   "v-4932acfb": () => import(/* webpackChunkName: "v-4932acfb" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/pwn08-堆利用之uaf.html.js").then(({ data }) => data),
   // path: /pwn/
   "v-744b8441": () => import(/* webpackChunkName: "v-744b8441" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/pwn/index.html.js").then(({ data }) => data),
-  // path: /python/
-  "v-63cd5dba": () => import(/* webpackChunkName: "v-63cd5dba" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/index.html.js").then(({ data }) => data),
   // path: /tools/github.html
   "v-16ee8ec9": () => import(/* webpackChunkName: "v-16ee8ec9" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/tools/github.html.js").then(({ data }) => data),
   // path: /tools/
   "v-d440f426": () => import(/* webpackChunkName: "v-d440f426" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/tools/index.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/01.%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%B5%B7%E6%AD%A5.html
+  "v-6ebb4939": () => import(/* webpackChunkName: "v-6ebb4939" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/01.第一章-起步.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/02.%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html
+  "v-26ddff1b": () => import(/* webpackChunkName: "v-26ddff1b" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/02.第二章-变量和简单数据结构.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/03.%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%88%97%E8%A1%A8%E7%AE%80%E4%BB%8B.html
+  "v-49cf08a0": () => import(/* webpackChunkName: "v-49cf08a0" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/03.第三章-列表简介.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/04.%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.html
+  "v-3a087bca": () => import(/* webpackChunkName: "v-3a087bca" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/04.第四章-操作列表.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/05.%E7%AC%AC%E4%BA%94%E7%AB%A0-if%E8%AF%AD%E5%8F%A5.html
+  "v-12bb3064": () => import(/* webpackChunkName: "v-12bb3064" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/05.第五章-if语句.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.html
+  "v-7298fe68": () => import(/* webpackChunkName: "v-7298fe68" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/06.第六章-字典.html.js").then(({ data }) => data),
+  // path: /python/python%E5%9F%BA%E7%A1%80/
+  "v-794da1fe": () => import(/* webpackChunkName: "v-794da1fe" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/index.html.js").then(({ data }) => data),
   // path: /python/Django/Django%20ORM.html
   "v-2575cb86": () => import(/* webpackChunkName: "v-2575cb86" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/Django/Django ORM.html.js").then(({ data }) => data),
   // path: /python/Django/Django%E8%AF%B7%E6%B1%82%E7%94%9F%E5%91%BD%E5%91%A8%E6%9C%9F%E6%B5%81%E7%A8%8B%E5%9B%BE.html
@@ -103,20 +119,6 @@ export const pagesData = {
   "v-5c8ccce6": () => import(/* webpackChunkName: "v-5c8ccce6" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/Django/连接数据库.html.js").then(({ data }) => data),
   // path: /python/Django/%E9%9D%99%E6%80%81%E6%96%87%E4%BB%B6%E9%85%8D%E7%BD%AE.html
   "v-a5966516": () => import(/* webpackChunkName: "v-a5966516" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/Django/静态文件配置.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/01.%E7%AC%AC%E4%B8%80%E7%AB%A0-%E8%B5%B7%E6%AD%A5.html
-  "v-6ebb4939": () => import(/* webpackChunkName: "v-6ebb4939" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/01.第一章-起步.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/02.%E7%AC%AC%E4%BA%8C%E7%AB%A0-%E5%8F%98%E9%87%8F%E5%92%8C%E7%AE%80%E5%8D%95%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.html
-  "v-26ddff1b": () => import(/* webpackChunkName: "v-26ddff1b" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/02.第二章-变量和简单数据结构.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/03.%E7%AC%AC%E4%B8%89%E7%AB%A0-%E5%88%97%E8%A1%A8%E7%AE%80%E4%BB%8B.html
-  "v-49cf08a0": () => import(/* webpackChunkName: "v-49cf08a0" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/03.第三章-列表简介.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/04.%E7%AC%AC%E5%9B%9B%E7%AB%A0-%E6%93%8D%E4%BD%9C%E5%88%97%E8%A1%A8.html
-  "v-3a087bca": () => import(/* webpackChunkName: "v-3a087bca" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/04.第四章-操作列表.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/05.%E7%AC%AC%E4%BA%94%E7%AB%A0-if%E8%AF%AD%E5%8F%A5.html
-  "v-12bb3064": () => import(/* webpackChunkName: "v-12bb3064" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/05.第五章-if语句.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/06.%E7%AC%AC%E5%85%AD%E7%AB%A0-%E5%AD%97%E5%85%B8.html
-  "v-7298fe68": () => import(/* webpackChunkName: "v-7298fe68" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/06.第六章-字典.html.js").then(({ data }) => data),
-  // path: /python/python%E5%9F%BA%E7%A1%80/
-  "v-794da1fe": () => import(/* webpackChunkName: "v-794da1fe" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/python/python基础/index.html.js").then(({ data }) => data),
   // path: /tools/Linux/01.%E5%AE%89%E8%A3%85linux%E7%B3%BB%E7%BB%9F%E7%9A%84%E5%A4%9A%E7%A7%8D%E6%96%B9%E5%BC%8F.html
   "v-2580cd95": () => import(/* webpackChunkName: "v-2580cd95" */"C:/Users/32937/Desktop/demo/su1i.github.io/docs/.vuepress/.temp/pages/tools/Linux/01.安装linux系统的多种方式.html.js").then(({ data }) => data),
   // path: /tools/Linux/
