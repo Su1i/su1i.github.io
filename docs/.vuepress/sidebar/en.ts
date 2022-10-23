@@ -12,6 +12,8 @@ export const enSidebar = sidebar({
       children: [
           "01.Java学习路线",
           "02.函数式编程-Stream流",
+          "03.常见类",
+          "04.异常",
       ],
     },
     {
