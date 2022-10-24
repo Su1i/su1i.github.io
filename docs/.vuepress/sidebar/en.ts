@@ -15,6 +15,7 @@ export const enSidebar = sidebar({
           "03.常见类",
           "04.异常",
           "05.集合和泛型",
+          "06.IO流",
       ],
     },
     {
