@@ -14,6 +14,7 @@ export const enSidebar = sidebar({
           "02.函数式编程-Stream流",
           "03.常见类",
           "04.异常",
+          "05.集合和泛型",
       ],
     },
     {
