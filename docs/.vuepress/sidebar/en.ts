@@ -32,7 +32,11 @@ export const enSidebar = sidebar({
       link: "framework/",
       prefix: "framework/",
       collapsable: true,
-      children: "structure",
+      children: [
+          "尚硅谷_宋红康_JDBC",
+          "SpringSecurity",
+          "Mybatis",
+      ],
     },
     {
       text: "数据库",
