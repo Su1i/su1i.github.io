@@ -34,8 +34,11 @@ export const enSidebar = sidebar({
       collapsable: true,
       children: [
           "尚硅谷_宋红康_JDBC",
-          "SpringSecurity",
           "Mybatis",
+          "SSM整合",
+
+          "SpringSecurity",
+
       ],
     },
     {

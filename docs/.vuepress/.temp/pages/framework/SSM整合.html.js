@@ -1,0 +1,14 @@
+export const data = JSON.parse("{\"key\":\"v-026fccf8\",\"path\":\"/framework/SSM%E6%95%B4%E5%90%88.html\",\"title\":\"SSM整合\",\"lang\":\"zh-CN\",\"frontmatter\":{\"title\":\"SSM整合\",\"index\":true,\"category\":[\"framework\"],\"summary\":\"SSM整合 1.SSM整合 1.0 步骤分析 我们先来分析下如何把Spring,SpringMVC,Mybatis整合到一起。 1.0.1 步骤 ①Spring整合上Mybatis 通过Service层Dao层都注入Spring容器中 ②引入配置SpringMVC 把Controller层注入SpringMVC容器中 ③让web项目启动时自动读取Spring\",\"head\":[[\"meta\",{\"property\":\"og:url\",\"content\":\"https://www.lovecode.icu/framework/SSM%E6%95%B4%E5%90%88.html\"}],[\"meta\",{\"property\":\"og:site_name\",\"content\":\"菜鸡的自我救赎\"}],[\"meta\",{\"property\":\"og:title\",\"content\":\"SSM整合\"}],[\"meta\",{\"property\":\"og:type\",\"content\":\"article\"}],[\"meta\",{\"property\":\"og:locale\",\"content\":\"zh-CN\"}]]},\"excerpt\":\"\",\"headers\":[{\"level\":2,\"title\":\"1.SSM整合\",\"slug\":\"_1-ssm整合\",\"link\":\"#_1-ssm整合\",\"children\":[{\"level\":3,\"title\":\"1.0 步骤分析\",\"slug\":\"_1-0-步骤分析\",\"link\":\"#_1-0-步骤分析\",\"children\":[]},{\"level\":3,\"title\":\"1.1 准备工作\",\"slug\":\"_1-1-准备工作\",\"link\":\"#_1-1-准备工作\",\"children\":[]},{\"level\":3,\"title\":\"1.2 相关配置\",\"slug\":\"_1-2-相关配置\",\"link\":\"#_1-2-相关配置\",\"children\":[]},{\"level\":3,\"title\":\"1.3 编写Controller,Service，Dao\",\"slug\":\"_1-3-编写controller-service-dao\",\"link\":\"#_1-3-编写controller-service-dao\",\"children\":[]}]},{\"level\":2,\"title\":\"2.案例\",\"slug\":\"_2-案例\",\"link\":\"#_2-案例\",\"children\":[{\"level\":3,\"title\":\"2.0 响应格式统一\",\"slug\":\"_2-0-响应格式统一\",\"link\":\"#_2-0-响应格式统一\",\"children\":[]},{\"level\":3,\"title\":\"2.1 查询所有用户\",\"slug\":\"_2-1-查询所有用户\",\"link\":\"#_2-1-查询所有用户\",\"children\":[]},{\"level\":3,\"title\":\"2.2 分页查询用户\",\"slug\":\"_2-2-分页查询用户\",\"link\":\"#_2-2-分页查询用户\",\"children\":[]},{\"level\":3,\"title\":\"2.3 插入用户\",\"slug\":\"_2-3-插入用户\",\"link\":\"#_2-3-插入用户\",\"children\":[]},{\"level\":3,\"title\":\"2.4 删除用户\",\"slug\":\"_2-4-删除用户\",\"link\":\"#_2-4-删除用户\",\"children\":[]},{\"level\":3,\"title\":\"2.5 更新用户\",\"slug\":\"_2-5-更新用户\",\"link\":\"#_2-5-更新用户\",\"children\":[]}]},{\"level\":2,\"title\":\"3.异常统一处理\",\"slug\":\"_3-异常统一处理\",\"link\":\"#_3-异常统一处理\",\"children\":[]},{\"level\":2,\"title\":\"4.拦截器\",\"slug\":\"_4-拦截器\",\"link\":\"#_4-拦截器\",\"children\":[]},{\"level\":2,\"title\":\"5.声明式事务\",\"slug\":\"_5-声明式事务\",\"link\":\"#_5-声明式事务\",\"children\":[]},{\"level\":2,\"title\":\"6.AOP\",\"slug\":\"_6-aop\",\"link\":\"#_6-aop\",\"children\":[]}],\"readingTime\":{\"minutes\":11.59,\"words\":3478},\"filePathRelative\":\"framework/SSM整合.md\"}")
+
+if (import.meta.webpackHot) {
+  import.meta.webpackHot.accept()
+  if (__VUE_HMR_RUNTIME__.updatePageData) {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  }
+}
+
+if (import.meta.hot) {
+  import.meta.hot.accept(({ data }) => {
+    __VUE_HMR_RUNTIME__.updatePageData(data)
+  })
+}
